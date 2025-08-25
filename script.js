@@ -1,4 +1,4 @@
-const version = "v1.0.1"; // Update version here
+const version = "v1.0.2"; // Update version here
 const fileName = "Banshi.apk";
 const baseURL = "https://github.com/VivekBansal1806/Banshi-Website/releases/download";
 
